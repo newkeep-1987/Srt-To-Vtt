@@ -199,4 +199,4 @@ This repository serves as the official landing page for SRT to VTT. The software
 **Get the most recent version of SRT to VTT today!**
 
 ---
-**Last updated:** 2026-11-14 07:19:58 UTC
+**Last updated:** 2026-11-14 14:44:54 UTC
